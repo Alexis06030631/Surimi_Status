@@ -1,0 +1,14 @@
+{
+  "name": "surimi-activity-discord",
+  "version": "1.0.0",
+  "description": "A small program that changes your discord activity to support Surimi",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "git+https://github.com/djs/discord-rpc.git"
+  },
+  "scripts": {
+    "start": "npm run index.js"
+  },
+  "author": "Alexis06030631",
+  "license": "ISC"
+}
