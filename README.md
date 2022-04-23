@@ -1,4 +1,4 @@
-# [Surimi Status](https://github.com/Alexis06030631/Surimi_Status/README.md)
+# [Surimi Status](https://github.com/Alexis06030631/Surimi_Status)
 
 ## About
 
@@ -12,7 +12,7 @@ Surimi Status is a very small program that allows you to support Surimi and its 
 
 
 ## Getting started
-- [Download](https://github.com/Alexis06030631/Surimi_Status/archive/refs/heads/main.zip) or clone the repository
+- [Download](https://github.com/Alexis06030631/Surimi_Status/archive/refs/heads/master.zip) or clone the repository
 - **On Windows**
   - Run the file `wd_Surimi-Status.cmd`
 - **On macOS or Linux**
